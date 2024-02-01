@@ -1,0 +1,20 @@
+{
+  "RESETPASSWORD": {
+    "URL": "https://dashboard.visme.co/v2/reset-password/",
+    "USERNAME": "Oscar",
+    "EMAIL": "e2e.test.user12345+3bPmE@gmail.com",
+    "PASSWORD": "Test12345!"
+  },
+
+  "LOGIN": {
+    "URL": "https://dashboard.visme.co/v2/login",
+    "EMAIL": "e2e.test.user12345+5551@gmail.com",
+    "PASSWORD": "Test12345!"
+  },
+
+  "IMAP": {
+    "EMAIL": "e2e.test.user12345@gmail.com",
+    "PASSWORD": "qrzu yesu vkfe jkji",
+    "HOST": "imap.gmail.com"
+  }
+}

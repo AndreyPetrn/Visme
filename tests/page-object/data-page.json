@@ -1,0 +1,39 @@
+{
+  "Projects": {
+    "title": "My Projects"
+  },
+
+  "LogIn": {
+    "passwordRequired": "Password required!",
+    "emailRequired": "Email required!",
+    "invalidEmailOrPassword": "Invalid email/password!",
+
+    "ForgotPassword": {
+      "passwordUpdated": "Password updated!",
+      "resetPassword": "If this email address exists in our system, we've sent you a password reset link"
+    },
+
+    "SignUp": {
+      "requiredName": "Name is required",
+      "requiredPassword": "Password is required!",
+      "requiredEmail": "Email is required!",
+      "reRegistrationImpossible": "The email address entered is already associated with a Visme account.",
+      "Password": {
+        "sequences": "123",
+        "sequencesMessage": "Sequences like abc or 6543 are easy to guess",
+        "repeats": "aaaaaaa",
+        "repeatsMessage": "Repeats like \"aaa\" are easy to guess",
+        "ease": "as",
+        "easeMessage": "A word by itself is easy to guess",
+        "top": "hello",
+        "topMessage": "This is a top-100 common password",
+        "short": "ak",
+        "shortMessage": "Add another word or two. Uncommon words are better.",
+        "popular": "Test123",
+        "popularMessage": "This is a very common password",
+        "commonlyUsed": "Test12345!",
+        "commonlyUsedMessage": "This is similar to a commonly used password"
+      }
+    }
+  }
+}
